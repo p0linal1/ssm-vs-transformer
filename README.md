@@ -2,7 +2,7 @@
 
 A from-scratch PyTorch implementation of the Mamba selective scan mechanism, benchmarked against a small transformer to demonstrate linear vs. quadratic sequence length scaling.
 
-![Benchmark](figures/scaling_benchmark.png)
+![Benchmark](scaling_benchmark.png)
 
 ## What Is This?
 
