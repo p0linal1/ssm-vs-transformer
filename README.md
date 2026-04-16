@@ -63,10 +63,9 @@ This means the model dynamically controls how much each token influences the hid
 ```
 mamba-from-scratch/
 ├── README.md
-├── mamba_from_scratch.ipynb    # Full implementation and experiments
+├── code.ipynb                  # Full implementation and experiments
 ├── requirements.txt
-└── figures/
-    └── scaling_benchmark.png   # The benchmark graph
+└── scaling_benchmark.png       # The benchmark graph  
 ```
 
 ## How to Run
@@ -77,7 +76,7 @@ cd mamba-from-scratch
 pip install -r requirements.txt
 ```
 
-Then open `mamba_from_scratch.ipynb` and run all cells.
+Then open `code.ipynb` and run all cells.
 
 ## Requirements
 
